@@ -1,0 +1,1 @@
+# aws-device-farm-configuration
